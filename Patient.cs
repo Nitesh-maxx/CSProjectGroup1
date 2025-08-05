@@ -1,9 +1,9 @@
 ﻿// Final Project: C# Object-Oriented Programming
 // Project: CSharp - Final Project - Group1
 //Group Members:
-// Nabin Adhikari(200582800)
-// Ajay Kumar(200581288)
-//Nandini Verma(200582490)
+// Nitesh Kumar Yadav (200583761)
+// Kiran Pandey (200577467)
+// Saral Adhikari (200583535)
 //Instructor name: Anmar Jarjees
 //Semester: 4
 // Program: Computer System Technician - Networking(CSTN)
@@ -112,3 +112,4 @@ public class Patient
             Console.WriteLine("BMI Status: Underweight");
     }
 }
+
